@@ -1,0 +1,16 @@
+user_id,age,gender,device_type,internet_connection_type,screens_visited,gestures_used,app_rating,sentiment_analysis,app_load_time,crash_report,battery_usage,memory_usage,font_size_preference,dark_mode_enabled,time_of_day,day_of_week,app_version
+1,32,Male,Android,4G,Home;Profile;Search,Tap;Swipe,4,Positivo,3.2,FALSE,18,210,Medium,TRUE,Tarde,Segunda-feira,2.1.0
+2,,Female,iOS,Wi-Fi,Home;Cart;Checkout,Tap,5,Positivo,1.8,FALSE,12,150,Small,FALSE,Manhã,Quarta-feira,2.2.0
+3,45,Non-Binary,android,5G,Home;Settings;Help,Tap;Pinch-to-zoom,3,Neutro,4.5,FALSE,25,340,Large,TRUE,Noite,Sexta-feira,2.1.5
+4,29,Male,iOS,Wi-Fi,Home;Search;Profile,Tap;Swipe,2,Negativo,5.1,TRUE,30,,Small,TRUE,manha,Terca-feira,2.0.1
+5,19,Male,Android,5G,Home;Search;Cart;Checkout,Swipe;Tap,5,Positivo,2.9,FALSE,20,200,,FALSE,Tarde,,2.1.0
+6,50,Female,iOS,Wi-Fi,Home;Profile;Settings,Tap,3,positivo,4.2,TRUE,high,400,Medium,TRUE,Manhã,Quinta-feira,2.1.5
+7,22,Não-binário,Android,4G,Home;Help,N/A,4,Positivo,3.5,FALSE,22,190,Small,FALSE,Noite,Domingo,2.2.0
+8,38,Male,iOS,5G,Home;Search;Cart,Tap;Swipe,6,Negativo,6.0,TRUE,40,500,Large,TRUE,Tarde,Sexta-feira,2.0.1
+9,27,Female,Android,Wi-Fi,Home;Profile,,4,Positivo,3.1,FALSE,10,170,Medium,FALSE,Manhã,Segunda-feira,2.2.0
+10,,Non-Binary,android,Wi-Fi,Home;Profile;Help,Tap;Swipe,3,Negativo,4.8,TRUE,28,310,Medium,TRUE,manha,,2.1.5
+11,24,Male,iOS,4G,Home;Notifications,N/A,4,Positivo,3.0,FALSE,,160,Small,FALSE,Manhã,Sexta-feira,2.0.1
+12,29,Female,Android,5G,Home;Search;Cart;Checkout,Tap;Pinch-to-zoom,5,Positivo,2.7,FALSE,19,190,Large,TRUE,Noite,Domingo,2.2.0
+13,36,Male,iOS,Wi-Fi,Home;Profile,,4,neutro,3.9,FALSE,21,230,Medium,FALSE,Tarde,Segunda-feira,2.1.0
+14,48,Female,Android,4G,Home;Settings;Help,Tap,2,Negativo,5.5,TRUE,35,270,Small,TRUE,Manhã,Quinta-feira,2.1.5
+15,21,Non-Binary,iOS,5G,Home;Cart;Checkout,Swipe;Tap,5,Positivo,2.1,FALSE,11,,Medium,FALSE,Noite,Sábado,2.2.0

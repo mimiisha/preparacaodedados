@@ -1,0 +1,16 @@
+user_id,age,gender,device_type,internet_connection_type,screens_visited,gestures_used,app_rating,sentiment_analysis,app_load_time,crash_report,battery_usage,memory_usage,font_size_preference,dark_mode_enabled,time_of_day,day_of_week,app_version
+1,32.0,Male,android,4G,Home;Profile;Search,Tap;Swipe,4,positivo,3.2,False,18.0,210.0,Medium,True,tarde,Segunda-feira,2.1.0
+2,29.0,Female,ios,Wi-Fi,Home;Cart;Checkout,Tap,5,positivo,1.8,False,12.0,150.0,Small,False,manhã,Quarta-feira,2.2.0
+3,45.0,Non-Binary,android,5G,Home;Settings;Help,Tap;Pinch-to-zoom,3,neutro,4.5,False,25.0,340.0,Large,True,noite,Sexta-feira,2.1.5
+4,29.0,Male,ios,Wi-Fi,Home;Search;Profile,Tap;Swipe,2,negativo,5.1,True,30.0,210.0,Small,True,manha,Terca-feira,2.0.1
+5,19.0,Male,android,5G,Home;Search;Cart;Checkout,Swipe;Tap,5,positivo,2.9,False,20.0,200.0,Medium,False,tarde,Segunda-feira,2.1.0
+6,50.0,Female,ios,Wi-Fi,Home;Profile;Settings,Tap,3,positivo,4.2,True,21.0,400.0,Medium,True,manhã,Quinta-feira,2.1.5
+7,22.0,Non-Binary,android,4G,Home;Help,Tap;Swipe,4,positivo,3.5,False,22.0,190.0,Small,False,noite,Domingo,2.2.0
+8,38.0,Male,ios,5G,Home;Search;Cart,Tap;Swipe,4,negativo,6.0,True,40.0,500.0,Large,True,tarde,Sexta-feira,2.0.1
+9,27.0,Female,android,Wi-Fi,Home;Profile,Tap;Swipe,4,positivo,3.1,False,10.0,170.0,Medium,False,manhã,Segunda-feira,2.2.0
+10,29.0,Non-Binary,android,Wi-Fi,Home;Profile;Help,Tap;Swipe,3,negativo,4.8,True,28.0,310.0,Medium,True,manha,Segunda-feira,2.1.5
+11,24.0,Male,ios,4G,Home;Notifications,Tap;Swipe,4,positivo,3.0,False,21.0,160.0,Small,False,manhã,Sexta-feira,2.0.1
+12,29.0,Female,android,5G,Home;Search;Cart;Checkout,Tap;Pinch-to-zoom,5,positivo,2.7,False,19.0,190.0,Large,True,noite,Domingo,2.2.0
+13,36.0,Male,ios,Wi-Fi,Home;Profile,Tap;Swipe,4,neutro,3.9,False,21.0,230.0,Medium,False,tarde,Segunda-feira,2.1.0
+14,48.0,Female,android,4G,Home;Settings;Help,Tap,2,negativo,5.5,True,35.0,270.0,Small,True,manhã,Quinta-feira,2.1.5
+15,21.0,Non-Binary,ios,5G,Home;Cart;Checkout,Swipe;Tap,5,positivo,2.1,False,11.0,210.0,Medium,False,noite,Sábado,2.2.0
